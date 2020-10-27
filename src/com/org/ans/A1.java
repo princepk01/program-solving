@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.function.Predicate;
 
 class B {
-	int b;
+	int b;      
 
 	B(int b) {
 		this.b = b;
