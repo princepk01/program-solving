@@ -9,7 +9,7 @@ class B {
 	B(int b) {
 		this.b = b;
 	}
-
+      
 	@Override
 	public String toString() {
 		return "B [b=" + b + "]";
