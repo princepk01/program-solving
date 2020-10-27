@@ -8,6 +8,7 @@ class B {
 
 	B(int b) {
 		this.b = b;
+		System.out.println("hi");
 	}
       
 	@Override
