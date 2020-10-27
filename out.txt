@@ -1,0 +1,8 @@
+git clone http://localhost:4200/user
+cd slugname
+git init
+cp readme.md
+git add  file_name
+git commit -m commitMessage
+git remote add origin http://localhost:4200/url
+git push -u origin branch-name
